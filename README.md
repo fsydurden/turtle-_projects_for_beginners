@@ -1,1 +1,1 @@
-This repo cantains all the basic projects i did for beginner level with doucumentaion on code.
+This repository contains all the beginner-friendly Turtle programs I’ve written while learning Python. Each script is simple, well-commented, and designed to help understand the basics of the turtle module.
